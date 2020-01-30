@@ -17,3 +17,18 @@
 - [OSDev wiki](https://wiki.osdev.org/Main_Page) 
 - [cortex-m-rtfm](https://github.com/rtfm-rs/cortex-m-rtfm) 
   - Real Time For the Masses (RTFM) framework for ARM Cortex-M microcontrollers .
+- [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/) 
+  - [Linux kernel map](https://github.com/makelinux/linux_kernel_map)
+- [Introduction to Computer Organization](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/frontmatter-1.html) 
+  - ARM Assembly Language Using the Raspberry Pi.
+- [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) 
+  - Online book about how to write a computer operating system in C/C++ from scratch. 
+- [How to run a program without an operating system?](https://stackoverflow.com/questions/22054578/how-to-run-a-program-without-an-operating-system/32483545#32483545) 
+- [The little book about OS development](https://littleosbook.github.io/) 
+  -[littleosbook](https://github.com/littleosbook/littleosbook)
+- [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) 
+  - Real Time For the Masses (RTFM) framework for ARM Cortex-M microcontrollers .
+- [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/) 
+  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
+
+

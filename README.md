@@ -28,7 +28,4 @@
   -[littleosbook](https://github.com/littleosbook/littleosbook)
 - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) 
   - Real Time For the Masses (RTFM) framework for ARM Cortex-M microcontrollers .
-- [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/) 
-  - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
-
 

@@ -28,5 +28,7 @@
   -[littleosbook](https://github.com/littleosbook/littleosbook)
 - [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspi3-OS-tutorials) 
   - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
+- [Linux From Scratch](http://www.linuxfromscratch.org/) 
+  - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. 
 
 

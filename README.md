@@ -31,5 +31,7 @@
 - [Linux From Scratch](http://www.linuxfromscratch.org/) 
   - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. 
 - [Learning assembly for linux-x64](https://github.com/0xAX/asm)
+- [带注释的《X86汇编语言-从实模式到保护模式》一书代码](https://github.com/lichuang/x86-asm-book-source)
+  - 代码在Mac上验证通过。由于原书是在Win上面编译的，这里也给一下Mac上编译的步骤。
 
 

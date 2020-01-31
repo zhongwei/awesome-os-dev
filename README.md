@@ -30,5 +30,6 @@
   - 📚 Learn to write an embedded OS in Rust on the Raspberry Pi 🦀
 - [Linux From Scratch](http://www.linuxfromscratch.org/) 
   - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. 
+- [Learning assembly for linux-x64](https://github.com/0xAX/asm)
 
 
